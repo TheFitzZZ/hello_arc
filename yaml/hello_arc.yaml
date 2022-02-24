@@ -4,7 +4,7 @@ metadata:
   name: hello-arc
   namespace: hello-arc 
 spec:
-  type: LoadBalancer
+  type: NodePort
   ports:
   - port: 80
     targetPort: 8080
