@@ -13,4 +13,4 @@ spec:
       paths:
       - backend:
           serviceName: hello-arc
-          servicePort: 808
+          servicePort: 8080
